@@ -1,0 +1,15 @@
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\bin\Debug\Tatsuno.exe.config
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\bin\Debug\Tatsuno.exe
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\bin\Debug\Tatsuno.pdb
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\obj\Debug\Tatsuno.csprojAssemblyReference.cache
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\obj\Debug\Tatsuno.Form1.resources
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\obj\Debug\Tatsuno.Properties.Resources.resources
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\obj\Debug\Tatsuno.csproj.GenerateResource.cache
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\obj\Debug\Tatsuno.csproj.CoreCompileInputs.cache
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\obj\Debug\Tatsuno.exe
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\obj\Debug\Tatsuno.pdb
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\obj\Debug\Tatsuno.Form2.resources
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\obj\Debug\Tatsuno.Form3.resources
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\obj\Debug\Tatsuno.Form4.resources
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\obj\Debug\Tatsuno.Form5.resources
+C:\Users\Craterzone\source\repos\Tatsuno\Tatsuno\obj\Debug\Tatsuno.Form6.resources
